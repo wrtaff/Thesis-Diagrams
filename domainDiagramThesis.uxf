@@ -179,10 +179,10 @@ INBOX=XXXX
 m1= 1
 m2= 1
 &lt; has_TCP_downlink_to                                                  
-</panel_attributes><additional_attributes>144;6;144;24;144;30;12;30;12;48</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>207</x><y>180</y><w>114</w><h>44</h></coordinates><panel_attributes>-
+</panel_attributes><additional_attributes>144;6;144;24;144;30;12;30;12;48</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>189</x><y>180</y><w>108</w><h>44</h></coordinates><panel_attributes>-
 m1= 1
 m2= 1
-&lt;spawns_a</panel_attributes><additional_attributes>102;18;9;18</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>336</x><y>330</y><w>162</w><h>84</h></coordinates><panel_attributes>lt=-
+&lt;spawns_a</panel_attributes><additional_attributes>99;18;9;18</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>336</x><y>330</y><w>162</w><h>84</h></coordinates><panel_attributes>lt=-
 m1= 1
 m2= n
 spawns/passes client socket to&gt;</panel_attributes><additional_attributes>12;6;12;36;150;36;150;72</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>96</x><y>102</y><w>594</w><h>72</h></coordinates><panel_attributes>lt=-
