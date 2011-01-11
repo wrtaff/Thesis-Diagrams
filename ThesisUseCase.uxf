@@ -23,11 +23,9 @@
 // This text will be stored with each diagram;  use it for notes.</help_text><zoom_level>8</zoom_level><element><type>com.umlet.element.custom.Systemborder</type><coordinates><x>168</x><y>88</y><w>224</w><h>408</h></coordinates><panel_attributes>Malware Mimic System</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.UseCase</type><coordinates><x>200</x><y>112</y><w>152</w><h>56</h></coordinates><panel_attributes>Command Observable
 Behaviors/Signatures
 </panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.UseCase</type><coordinates><x>224</x><y>288</y><w>96</w><h>40</h></coordinates><panel_attributes>Halt/Continue
-Execution</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Actor</type><coordinates><x>0</x><y>256</y><w>112</w><h>96</h></coordinates><panel_attributes>Trainer
-(Red/Blue Teams)</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Actor</type><coordinates><x>392</x><y>240</y><w>160</w><h>96</h></coordinates><panel_attributes>Local Kill Authority
+Execution</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Actor</type><coordinates><x>0</x><y>256</y><w>112</w><h>96</h></coordinates><panel_attributes>Trainer</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Actor</type><coordinates><x>392</x><y>240</y><w>160</w><h>96</h></coordinates><panel_attributes>Local Kill Authority
 (Trainee,Trainer, Observer)</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Actor</type><coordinates><x>0</x><y>440</y><w>112</w><h>120</h></coordinates><panel_attributes>Trainee
-(Operational Unit
-Under Evaluation)
+
 </panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.UseCase</type><coordinates><x>216</x><y>416</y><w>136</w><h>48</h></coordinates><panel_attributes>Observe Behaviors/
 Signatures
 </panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.UseCase</type><coordinates><x>208</x><y>352</y><w>136</w><h>32</h></coordinates><panel_attributes>Initialize Clients/
